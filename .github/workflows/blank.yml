@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: delmer/dfejelmer-5864
+          tags: Delmer/dfejelmer5864
